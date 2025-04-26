@@ -1,0 +1,6 @@
+name = input(" Write the name: ")
+animal = input(" Write your animal")
+ilov = input(" Write the name")
+print(name + " is "+animal)
+print(animal + " hai tu ")
+print("I love "+ilov)
